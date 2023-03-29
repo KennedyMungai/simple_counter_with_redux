@@ -1,5 +1,10 @@
 import React from 'react'
 
+
+const initialState = {
+    count: 0
+}
+
 const Counter = () =>
 {
     return (
